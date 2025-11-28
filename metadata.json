@@ -1,0 +1,8 @@
+{
+  "name": "FastCook",
+  "description": "Um assistente culinário inteligente que analisa sua geladeira e sugere receitas.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
